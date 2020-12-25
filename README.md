@@ -1,0 +1,2 @@
+# SKT-Templates
+SKT Templates is a 100s of design of Gutenberg and Elementor based free templates. You can select demo for your website and install and activate. It is one click demo install as well as free WordPress themes with slider. All templates smoothly work with latest version of WordPress. You can also select free templates from https://www.sktthemes.org/product-category/free-wordpress-themes/
